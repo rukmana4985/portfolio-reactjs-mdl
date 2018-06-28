@@ -74,8 +74,9 @@
 .btn-subscribe{
   color: #fff !important;
   width: 80%;
-  height: 50px !important;
+  height: auto !important;
   letter-spacing: .3em !important;
+
 }
 ::-webkit-scrollbar{
   width: .5em;
